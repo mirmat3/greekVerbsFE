@@ -1,0 +1,17 @@
+.cardMenu{
+    width: 18rem; 
+    margin: 2rem; 
+    float: left;
+}
+
+.card-body{
+    background-color:#eef4ff;
+    border-width: 0em;
+    color: #005099;
+}
+
+.card-body i {
+    color: #005099;
+    font-size: 24px;
+    margin-top: 4px;
+}

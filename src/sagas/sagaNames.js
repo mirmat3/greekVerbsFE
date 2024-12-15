@@ -1,0 +1,11 @@
+export const sagaNames = {
+    /* ARTICULOS */
+    GET_ARTICULOS: 'GET_ARTICULOS', 
+
+    /* VERBOS */
+    ADD_VERBO: 'ADD_VERBO',
+    GET_VERBO: 'GET_VERBO',
+    EDIT_VERBO: 'EDIT_VERBO',
+    GET_ADVERBIOS: 'GET_ADVERBIOS',
+
+}

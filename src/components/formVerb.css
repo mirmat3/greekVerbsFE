@@ -1,0 +1,84 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.no-margin{
+    margin:0px;
+}
+
+/* .container{
+  min-height: 600px;
+
+} */
+
+.container .camposForm{
+    margin-top: 2%;
+    padding: 2% 2%;
+    float:left;
+    background-color: #e3f1ff;
+    text-align:left;
+    margin-left:15%;
+}
+
+.float-left{
+    float:left;
+}
+
+.box-right{
+    margin-left: 1%;
+}
+.float-right{
+    float:right;
+}
+
+.buttonTop{
+    margin: 15px 5px 5px 5px;
+    text-align: left;
+}
+
+.noEditar{
+    background-color: #005099 !important;
+    color: #eeeeee;
+    font-weight: bold;
+}
+
+.input-group{
+    width: 75% !important;
+}   
+.form-label {
+    margin-left:2%;
+    font-weight: bold;
+  }
+.form-control {
+    width: 65% !important;
+    margin-left:2%;
+    border-right: #ffffff;
+  }
+.margin-right{
+  margin-right: 20px;
+}
+
+ 
+.checkSolucion{
+   border-left: #ffffff;
+   background-color: #ffffff;
+}
+
+
+.checkSolucion i{
+    width: 25px;
+    font-size: 25px;
+  
+}
+
+.classOK{
+    color:greenyellow;
+}
+.classError{
+    color:red;
+}
+
+.version{
+    font-size: 8px;
+    color: #bbb;
+    margin-right: 5px;  
+    cursor: pointer;
+}

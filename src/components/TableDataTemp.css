@@ -1,0 +1,15 @@
+.container_tablaData th {
+  background-color: #005099;
+  color: #eeeeee;
+}
+
+.container_tablaData .table-striped tbody tr {
+  background-color: #e3f1ff;
+}
+.container_tablaData .table-striped tbody tr:nth-of-type(odd) {
+  background-color: #fff;
+}
+
+.container_tablaData .table-striped tbody tr:hover {
+  background-color: #c0e1ff;
+}
